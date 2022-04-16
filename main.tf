@@ -1,4 +1,4 @@
-//Commands to in
+//Commands to indicate
 provider "aws" {
   region = "ap-south-1"
 }
