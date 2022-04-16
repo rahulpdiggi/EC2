@@ -1,4 +1,4 @@
-//Commands to indicate 1122
+//Commands to indicate
 provider "aws" {
   region = "ap-south-1"
 }
